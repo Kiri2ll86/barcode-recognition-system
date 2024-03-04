@@ -5,11 +5,11 @@
 import cv2
 import os
 from pyzbar.pyzbar import decode
-# Мой RTSP URL и настройки OpenCV
+Мой RTSP URL и настройки OpenCV
 RTSP_URL = 'rtsp://admin:admin@192.168.0.104:1935/h264Preview_01_main'
 os.environ['OPENCV_FFMPEG_CAPTURE_OPTIONS'] = 'rtsp_transport;udp'
 
-# Создание объекта VideoCapture
+Создание объекта VideoCapture
 cap = cv2.VideoCapture(RTSP_URL, cv2.CAP_FFMPEG)
 
 if not cap.isOpened():
