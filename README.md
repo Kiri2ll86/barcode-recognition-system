@@ -26,4 +26,4 @@ cv2.destroyAllWindows() <br />
 ![Image alt] (https://i.postimg.cc/vmy79YjL/image.jpg)
 + для разработки алгоритма проверки текста - https://pythonim.ru/osnovy/regulyarnye-vyrazheniya-python, https://python2030.ru/
 ## Результат
-![Image alt](https://i.postimg.cc/FR8YzrDd/1.png)
+![Image alt](https://i.postimg.cc/vmy79YjL/image.jpg)
